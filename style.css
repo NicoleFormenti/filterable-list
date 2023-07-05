@@ -1,0 +1,16 @@
+ul#todo-list    {
+    padding: 0;
+}
+ul#todo-list li {
+    background-color: aquamarine;
+    margin-bottom: 4px;
+}
+ul#todo-list li.work   {
+    background-color: aqua;
+}
+ul#todo-list li.home   {
+    background-color: cornflowerblue;
+}
+ul#todo-list li.social {
+    background-color: blue;
+}
